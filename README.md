@@ -1,6 +1,6 @@
 This is a simple Todo List application created as part of my **Web Technologies** subject for the **Micro Project**. The project was built within **2 hours** to showcase the basics of task management using **React** and **Vite**.
 
-![Todo List App](./path-to-your-image.jpg)  <!-- Replace with your image path -->
+![Todo List App](https://github.com/pseudo0244/todolist/blob/main/Image.png)  <!-- Replace with your image path -->
 
 ### Features:
 - Add new tasks to your to-do list.
